@@ -1,0 +1,35 @@
+body {
+    background-color: bisque;
+}
+
+header {
+    width: 98vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#presidente{
+    
+    width: 50%;
+    height: 50%;
+
+}
+
+#trump {
+    display: flex;
+    justify-content: center;
+
+}
+
+#trumpdiv {
+    display: flex;
+    justify-content: center;
+
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
